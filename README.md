@@ -29,9 +29,7 @@ The Waterfall mothodology is a linear sequential design process, where progress 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 
 Software Developer is responsible for writing code and implementing software solutions.
-
 A Quality Assurance Engineer ensures software quality by designing and execution test plans.
-
 A project Engineer oversees the planning, execution, and delivery of software projects.
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
@@ -41,14 +39,10 @@ IDEs are software suites that provide comprehensive tools for writing, debugging
 Examples of IDEs include Visual Studio Code, IntelliJ IDEA, and Eclipse.
 
 Version Control Systems (VCS) are software tools for tracking changes to source code and coordinating work among team members. 
-
 VCS has several importance entailing:
 Collaboration where multiple developers can work on the same codebase simultaneously without conflicts.
-
 Backup and recovery - VCS provides a reliable backup of the code, preventing data loss.
-
 Experimentation - developers can safely experiment with new features without affecting the main codebase.
-
 Code review - VCS facilitates code reviews, improving code quality
 
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
@@ -60,13 +54,9 @@ The strategies to overcome these challenges are applying Agile methodologies, ef
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
 
 Unit testing involves testing individual components or modules of the software 
-
 integration testing involves testing the interaction between different components or subsystems.
-
 System testing  involves testing the entire system as a whole.
-
 Acceptance testing tests the system against user requirements to ensure it meets user needs.
-
 These tests are important in software quality assurance since they help to identify and fix defects early in the development proces leading to higher-quality software projects.
 
 #Part 2: Introduction to AI and Prompt Engineering
@@ -81,9 +71,7 @@ Prompt engineering is important in accuracy and relevance, control over output, 
 Accuracy and Relevance - Well-crafted prompts significantly improve the accuracy and relevance of AI-generated outputs. A clear and specific prompt helps the model focus on the desired task.   
 
 Control Over Output - By carefully constructing prompts, users can influence the style, tone, and format of the generated content.   
-
 Efficiency - Effective prompt engineering can save time and resources by reducing the need for multiple iterations or corrections.   
-
 Ethical Considerations- Prompt engineering plays a crucial role in mitigating biases and ensuring that AI models generate ethical and unbiased content.
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
