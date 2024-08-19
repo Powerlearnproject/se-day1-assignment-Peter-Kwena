@@ -11,23 +11,15 @@ Software engineering is the systematic application of engineering principles, me
 Identify and describe at least three key milestones in the evolution of software engineering.
 
 The Software Crisis and the Birth of Software Engineering. In the 1960s, the growing complexity of software systems led to a phenomenon known as the "software crisis." Projects were often over budget, late, and produced unreliable software. This crisis underscored the need for a systematic and disciplined approach to software development
-
 The Rise of Object-Oriented Programming (OOP). The introduction of OOP in the 1970s and 1980s revolutionized software development. By modeling real-world entities as objects with properties and behaviors, OOP promoted code reusability, modularity, and maintainability.
-
 Agile Methodologies and DevOps. The early 2000s saw the emergence of Agile methodologies, which emphasized iterative development, customer collaboration, and flexible planning. DevOps, a cultural shift towards collaboration between development and operations teams, followed closely
 
 List and briefly explain the phases of the Software Development Life Cycle.
-
 Requirements - involves gathering and documenting user needs and system requirements.
-
 Design- entail creation of high level of detailed designs of the software architecture and user interface.
-
 Implementation- involves writing code and building the software according to the design and the specifications.
-
 Testing- involves conducting various tests to ensure rhe software meets the quality standards and functional requirements.
-
 Deployment- involves releasing the software to users or customers.
-
 Maintenance -entails provision of ongoing support, updates, and enhancements to the software after deployment.
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
